@@ -16,4 +16,3 @@ Flexible Widgets: Utilizes Flexible and Expanded widgets to create a dynamic and
 ![photo_2024-08-31_22-23-36](https://github.com/user-attachments/assets/14581f6b-fc44-4e43-aa6c-1040a58ec53e)
 ![photo_2024-08-31_22-23-41](https://github.com/user-attachments/assets/aa9b8ebb-7b33-485e-b870-52cb50db90d9)
 ![photo_2024-08-31_22-23-30](https://github.com/user-attachments/assets/01556672-2b40-4ae5-aadb-36c4978f77cc)
-![photo_2024-08-31_22-24-11](https://github.com/user-attachments/assets/13ba0c77-d817-4fed-a7e8-647b493e78c1)
